@@ -1,6 +1,17 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
-<p align="center">
+---
+<table>
+<tr>
+<td width="80%">
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
+</td>
+<td width="20%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</table>
+<p align="center">
+
 </p>
 
 
