@@ -1,7 +1,4 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
----
-***
-___
 <table>
 <tr>
 <td width="90%" class="">
@@ -15,5 +12,6 @@ ___
 </table>
 <div>
 <img src="https://i.pinimg.com/originals/2d/5c/31/2d5c31e0cb09c0c71fa04beb769172f0.gif"  width="300" height="" align="left"/>
-<p  align="center" style="display:flex; justify-content: space-around">Actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython.</p>
+<h2 align="center">ACERCA DE MI</h2>
+  <p  align="center" >Actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython. Decidi entrar a este curso por que me interesa la programación.</p>
 </div>
