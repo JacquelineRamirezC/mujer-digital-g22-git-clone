@@ -1,6 +1,10 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
 <table>
 <tr>
+<img src="https://i.gifer.com/XsnA.gif" width="400"/>
+<p>Soy Jacqueline actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython.</p>
+
+  
 <td width="90%" class="">
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
 </td>
@@ -10,6 +14,7 @@
 </td>
 </tr>
 </table>
+
 <img src="https://i.gifer.com/XsnA.gif" width="400"/>
 <p>Soy Jacqueline actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython.</p>
 
