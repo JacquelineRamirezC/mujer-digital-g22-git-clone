@@ -5,8 +5,7 @@
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
 </td>
 <td width="20%">
-<button type="button" class="btn btn-link" href="https://www.facebook.com/Rmz.Jaqueline?locale=es_LA">Facebook </button>
-<button type="button" class="btn btn-link">Instagram</button>
+<a https://www.facebook.com/Rmz.Jaqueline?locale=es_LA><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMNNtOhc01gmISFnJU2H1OhRgFZ3rs4OhYw&s"/></a>
 </td>
 </tr>
 </table>
