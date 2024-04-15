@@ -1,4 +1,7 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
+---
+***
+___
 <table>
 <tr>
 <td width="90%" class="">
