@@ -15,9 +15,8 @@
 <h2 align="center">ACERCA DE MI</h2>
   <p  align="center" >Actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython. Decidi entrar a este curso por que me interesa la programación.</p>
 </div>
-
-
 <div>
+<h2>MIS PASATIEMPOS</h2>
 <ul>
 <li>First item</li>
 <li>Second item</li>
