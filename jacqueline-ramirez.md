@@ -11,8 +11,7 @@
 </tr>
 </table>
 <div>
-<a href="">
-<img src="https://i.gifer.com/XsnA.gif" width="40" /> </a>
+<img align="https://i.gifer.com/XsnA.gif" width="400"/>
 <p>Soy Jacqueline actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython.</p>
 </div>
 
