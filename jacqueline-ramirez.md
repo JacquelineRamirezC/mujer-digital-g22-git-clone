@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
 <table>
 <tr>
-<td width="95%" border="">
+<td width="90%" border="">
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
 </td>
-<td width="5%">
+<td width="10%">
 <a https://www.facebook.com/Rmz.Jaqueline?locale=es_LA><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq9mth8odlJPX0PkISC6cj3EW7T5cVDuOAA&s" width=" 30" height="30" align="center" /></a>
 <a https://www.instagram.com/rmz.jaqueline/><img src="https://cdn-icons-png.flaticon.com/512/717/717392.png" width=" 30" height="30" align="center"/></a>
 </td>
