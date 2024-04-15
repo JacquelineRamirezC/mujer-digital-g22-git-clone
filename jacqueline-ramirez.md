@@ -23,6 +23,6 @@
 <li>Leer</li>
 <li>Ejercitarme</li>
 </ul>
-<img src="https://64.media.tumblr.com/4f3d1a2c786e540a238111b3d39fa3a9/tumblr_o3847mGP2V1ubdqjxo1_500.gifv"  width="250" height="" align="right"/>
+<img src="https://64.media.tumblr.com/4f3d1a2c786e540a238111b3d39fa3a9/tumblr_o3847mGP2V1ubdqjxo1_500.gifv"  width="500" height="" align="right"/>
 
 </div>
