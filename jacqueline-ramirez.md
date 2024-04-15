@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Mi nombre es Jacqueline.</h1>
 <table>
 <tr>
-<td width="90%" border="">
+<td width="90%" margin="0">
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
 </td>
 <td width="10%">
