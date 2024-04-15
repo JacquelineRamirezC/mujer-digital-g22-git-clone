@@ -5,15 +5,12 @@
 <img src="https://static.wikia.nocookie.net/factvsfiction/images/9/9d/Storm.gif/revision/latest?cb=20160527023427" />
 </td>
 <td width="20%">
-<a https://www.facebook.com/Rmz.Jaqueline?locale=es_LA><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMNNtOhc01gmISFnJU2H1OhRgFZ3rs4OhYw&s"/></a>
+<a https://www.facebook.com/Rmz.Jaqueline?locale=es_LA><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMNNtOhc01gmISFnJU2H1OhRgFZ3rs4OhYw&s" width=" 20" height="20"/></a>
+<a https://www.instagram.com/rmz.jaqueline/><img src="https://cdn-icons-png.flaticon.com/512/717/717392.png" width=" 20" height="20"/></a>
 </td>
 </tr>
 </table>
-<p align="center">
-https://www.facebook.com/Rmz.Jaqueline?locale=es_LA
-https://www.instagram.com/rmz.jaqueline/
 
-</p>
 
 
 
