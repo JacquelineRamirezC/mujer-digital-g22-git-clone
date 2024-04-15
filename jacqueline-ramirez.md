@@ -10,7 +10,7 @@
 </td>
 </tr>
 </table>
-<div style="display:flex; justify-content: space-around">>
+<div style="display:flex; justify-content: space-around">
 <img src="https://i.pinimg.com/originals/2d/5c/31/2d5c31e0cb09c0c71fa04beb769172f0.gif"  width="300" height="" align="left"/>
 <h2 align="center">ACERCA DE MI</h2>
   <p  align="center" >Actualmente estudio en JA Mujer Digital estamos aprendiendo a diseñar paginas web y a programar en Java, JavaScrip y Paython. Decidi entrar a este curso por que me interesa la programación.</p>
@@ -18,10 +18,10 @@
 <div style="display:flex; justify-content: space-around">>
 <h2 align="left">MIS PASATIEMPOS</h2>
 <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>Aprender cosas nuevas</li>
+<li>Escuchar podcast</li>
+<li>Leer</li>
+<li>Ejercitarme</li>
 </ul>
 <img src="https://64.media.tumblr.com/4f3d1a2c786e540a238111b3d39fa3a9/tumblr_o3847mGP2V1ubdqjxo1_500.gifv"  width="250" height="" align="right"/>
 
